@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-14T10:23:15Z",
+  "id": "LINEcardmsg",
+  "duration": 0,
+  "title": "募集中イベントの変更方法",
+  "summary": "LINEリッチメニュー作成方法",
+  "source": "1H-8CuWmh41-9gw_1KuHjTgNuN3xgFbVXvvMmQYHdveU",
+  "theme": "line",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "LINE"
+  ],
+  "tags": [],
+  "url": "LINEcardmsg"
+}
